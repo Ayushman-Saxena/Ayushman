@@ -1,0 +1,4 @@
+# Private test files
+test_*.py
+*_private.py
+secrets.txt
