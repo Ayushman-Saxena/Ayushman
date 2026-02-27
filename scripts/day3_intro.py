@@ -55,5 +55,6 @@ def main():
 # Entry point
 if __name__ == "__main__":
     main()
-
-    # how do I use for loops
+# function to calculate the sum of two numbers
+def calculate_sum(a, b):
+    return a + b
